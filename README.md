@@ -12,3 +12,11 @@ MiniMax-Music3 (PocketAiHub/MiniMax-Music3-MLX, int8, 11.9 GB).
 - `tests/qt_selftest.py` — `python3 app_qt.py --selftest` (offscreen) and `--probe` (12 s on screen).
 
 Runtime: `~/models/music3-venv` (mlx 0.30.6) + `~/models/MiniMax-Music3-MLX`.
+
+## Install
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/lalalaoneplus-dev/music3-studio/main/install.sh | bash
+```
+
+Sets up the Apple Silicon UI and MLX engine environments, then launches Music3 Studio.

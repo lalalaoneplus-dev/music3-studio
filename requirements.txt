@@ -1,0 +1,2 @@
+# UI packages imported by app_qt.py and qt/window.py
+PySide6
