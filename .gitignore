@@ -1,0 +1,4 @@
+__pycache__/
+config.json
+*.icns
+*_256.png
